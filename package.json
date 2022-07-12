@@ -1,5 +1,5 @@
 {
-  "name": "raganork",
+  "name": "𝛪𝑇𝑆 𝛭𝛯 𝐹𝐿𝛥𝑆𝛨",
   "version": "1.0.2",
   "description": "Raganork whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/Amithser/whatsapp-bot/raganork-md.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Amithser",
+  "developer": "@amithser404",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/raganork/issues"
+    "url": "https://github.com/Amithser/whatsapp-bot"
   },
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/Amithser/whatsapp-bot #readme",
   "dependencies": {
     "@adiwajshing/baileys": "4.1.0",
     "@adiwajshing/keyed-db":"0.2.4",
